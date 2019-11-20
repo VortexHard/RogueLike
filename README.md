@@ -1,6 +1,5 @@
 # Walking
-              UP_ARROW
- LEFT_ARROW   DOWN_ARROW   RIGHT_ARROW
+  arrows
 # Fullscreen mode
   alt + enter
 # Exit
