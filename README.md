@@ -1,3 +1,7 @@
+# Start
+  compile engine.py
+
+
 # Walking
   arrows
 # Fullscreen mode
